@@ -1,0 +1,21 @@
+.cintillo_sencamer {
+    display: flex;
+  }
+
+  .cintillo_sencamer>img_1{
+    max-width: 20% !important;
+    height: 80px !important;
+    margin: 20px !important;
+    padding: 5px !important;
+    display: inline-block !important;
+    margin: auto !important;
+}
+
+.cintillo_sencamer>img_2{
+    max-width: 20% !important;
+    height: 80px !important;
+    margin: 20px !important;
+    padding: 5px !important;
+    display: inline-block !important;
+    margin: auto !important;
+}
